@@ -48,7 +48,7 @@ nav h3 {
   Font-size:36px;
   color: #E6533C;
   font-style: italic;
-  /* margin-right: 50%; */
+  margin-right: 50%;
 }
 nav ul {
   display: flex;
